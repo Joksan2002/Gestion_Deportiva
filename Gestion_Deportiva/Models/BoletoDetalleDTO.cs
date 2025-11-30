@@ -2,7 +2,7 @@
 {
     public class BoletoDetalleDTO
     {
-        // Boleto
+        // Boletos
         public int BoletoId { get; set; }
         public DateTime Fecha { get; set; }
         public double Precio { get; set; }
